@@ -1,0 +1,4 @@
+Para instalar o sass:
+npm install --save-dev sass
+
+
